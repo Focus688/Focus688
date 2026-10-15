@@ -12,18 +12,6 @@
 | [`china-policy-radar`](https://github.com/Focus688/china-policy-radar) | 🏛 Machine-readable China policy data layer — every entry carries a first-party official source URL, built for both humans and AI agents |
 | [`levi-focus`](https://github.com/Focus688/levi-focus) | ✍️ Personal site — AI-era essays & GEO-optimized content (llms.txt + JSON-LD) |
 
-## 🗂 Repo Map
-
-**🚀 Active / Flagship** — long-commit-history assets:
-- [`agent-security-skills`](https://github.com/Focus688/agent-security-skills) · [`china-policy-radar`](https://github.com/Focus688/china-policy-radar) · [`levi-focus`](https://github.com/Focus688/levi-focus) (personal site)
-
-**📦 Portfolio (paused)** — complete builds I may revisit:
-- [`agent-knowledge-cube`](https://github.com/Focus688/agent-knowledge-cube) — Role × Workflow × Knowledge constraint framework for agents
-- [`LoanTruth`](https://github.com/Focus688/LoanTruth) — transparency tools for retail investors (React/TS)
-- [`mini-dashboard`](https://github.com/Focus688/mini-dashboard) — personal investment signal dashboard
-
-**📚 Learning forks** — reference material I study from; stars belong to their authors.
-
 ## 🧭 What I care about
 
 - **Skill Market thesis**: the next packaging unit of AI agents isn't the App, it's the Skill — industry know-how (video pipelines, policy research, investment frameworks) is the blue ocean.
