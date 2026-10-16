@@ -8,7 +8,7 @@
 
 | Repo | What it is |
 |---|---|
-| [`agent-security-skills`](https://github.com/Focus688/agent-security-skills) | 🛡️ **Operational security for AI agent runtimes** — safe installs, silent-failure detection, rollback. War-story driven (SKILL.md standard) |
+| [`agent-security-skills`](https://github.com/Focus688/agent-security-skills) | 🛡️ **Operational security for AI agent runtimes** — safe installs, silent-failure detection, MCP permission audit, rollback. War-story driven (SKILL.md standard) |
 | [`china-policy-radar`](https://github.com/Focus688/china-policy-radar) | 🏛 Machine-readable China policy data layer — every entry carries a first-party official source URL, built for both humans and AI agents |
 | [`levi-focus`](https://github.com/Focus688/levi-focus) | ✍️ Personal site — AI-era essays & GEO-optimized content (llms.txt + JSON-LD) |
 
